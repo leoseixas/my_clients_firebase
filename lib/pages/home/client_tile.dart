@@ -33,9 +33,9 @@ class ClientTile extends StatelessWidget {
               ),
             ],
           ),
-          SizedBox(
-            width: 12,
-          ),
+          // SizedBox(
+          //   width: 12,
+          // ),
           // Column(
           //   crossAxisAlignment: CrossAxisAlignment.start,
           //   children: [

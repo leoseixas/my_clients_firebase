@@ -79,7 +79,7 @@ class _LoginPageState extends State<LoginPage> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                'teste: ${model.userData["name"]}',
+                'E-mail',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 15,
