@@ -1,16 +1,8 @@
 # my_clients_firebase
 
-A new Flutter project.
+Projeto my_clients é apenas demonstração, foi feito com scoped_model e Firebase
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/screenshot/Screenshot_1606765538.png" width="200" heigth="20">
+<img src="assets/screenshot/Screenshot_1606765635.png" width="200" heigth="20">
+<img src="assets/screenshot/Screenshot_1606765829.png" width="200" heigth="20">
+<img src="assets/screenshot/Screenshot_1606765727.png" width="200" heigth="20">
